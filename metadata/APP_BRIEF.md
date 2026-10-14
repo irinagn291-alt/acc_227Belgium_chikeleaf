@@ -1,4 +1,4 @@
-<!-- gf-brief source=61707b7884c29f00599e0afe5164dbb31ea363e3d4298df6a4384d00be191707 written=2026-10-14T18:39:35+03:00 -->
+<!-- gf-brief source=61707b7884c29f00599e0afe5164dbb31ea363e3d4298df6a4384d00be191707 written=2026-10-14T18:39:48+03:00 -->
 # Hingeleaf
 
 ## What it is
