@@ -1,0 +1,17 @@
+Hingeleaf és un àlbum personal de segells per a qui arxiva mancances i exemplars propis en un mateix full. Cerca o escaneja una emissió del catàleg, col·loca-la en una perforació com a mancança, cancel·la aquella xarnera quan el segell de paper és a la mà i qualifica l'exemplar propi de l'1 al 5. Taste suma aquestes qualificacions cancel·lades per país.
+
+• THE LEAF mostra pàgines de 12 perforacions, amb Previous leaf, Next leaf i Add a leaf.
+• Un espai buit mostra Open. Toca'l per obrir DISCOVER.
+• DISCOVER fa servir el camp Country, topic, or number. Search resta apagat fins que el camp té text.
+• Scan llegeix un codi de barres o un codi QR d'un paquet de venda, o escrius Pack code or link. Look up resta apagat fins que el camp té text.
+• Si el catàleg no té coincidència o no respon, Show the shelf omple Discover amb el prestatge de l'àlbum desat.
+• Una cerca correcta deixa les emissions coincidents a In the tray com a segells solts.
+• Hinge col·loca un segell triat de la safata en una perforació buida com a mancança. Wants llista els segells en xarnera fins que els cancel·les.
+• Cancel marca una mancança en xarnera que ja és a la mà. In hand. apareix un moment. Cancel sense xarnera registra un biaix i deixa el segell solt. Clear from tray treu un segell solt.
+• Les càpsules 1, 2, 3, 4 i 5, i el camp Local note, apareixen només després de cancel·lar.
+• Profile obre TASTE, que compta només les qualificacions cancel·lades: Grade total by country, Average grade, Skew, Drift, Eras i Notes.
+• CRATE llista els exemplars propis cancel·lats. SEEN llista els dies de cancel·lació, el dia més recent al final.
+• Peel last mark pregunta Peel the last mark? i treu la darrera xarnera o cancel·lació.
+• SETTINGS inclou Haptics, Run onboarding again, Export album folio i després Share album folio, Erase everything, Contact Hingeleaf i Catalog credit, Colnect.
+
+Les xarneres, les cancel·lacions, les qualificacions i les notes es queden en aquest dispositiu. Interfície en anglès, vertical, iPhone i iPad, iOS 17.0 o posterior.

@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "issues": [
+    {
+      "id": "hlf-gb-penny",
+      "title": "Penny Red",
+      "country": "Great Britain",
+      "topic": "Queen Victoria",
+      "catalogNumber": "GB 8",
+      "year": 1858,
+      "barcode": "5012345678901",
+      "role": "loose"
+    },
+    {
+      "id": "hlf-fr-sower",
+      "title": "Sower",
+      "country": "France",
+      "topic": "Allegory",
+      "catalogNumber": "FR 130",
+      "year": 1903,
+      "barcode": "3123456789012",
+      "role": "loose"
+    },
+    {
+      "id": "hlf-jp-crane",
+      "title": "Crane",
+      "country": "Japan",
+      "topic": "Birds",
+      "catalogNumber": "JP 214",
+      "year": 1949,
+      "barcode": "4901234567894",
+      "role": "loose"
+    },
+    {
+      "id": "hlf-us-flag",
+      "title": "Fort Bliss",
+      "country": "United States",
+      "topic": "Flags",
+      "catalogNumber": "US 899",
+      "year": 1940,
+      "barcode": "012345678905",
+      "role": "loose"
+    },
+    {
+      "id": "hlf-de-castle",
+      "title": "Castle",
+      "country": "Germany",
+      "topic": "Buildings",
+      "catalogNumber": "DE 44",
+      "year": 1924,
+      "barcode": "4012345678901",
+      "role": "loose"
+    },
+    {
+      "id": "hlf-it-rome",
+      "title": "Roman Forum",
+      "country": "Italy",
+      "topic": "Monuments",
+      "catalogNumber": "IT 77",
+      "year": 1929,
+      "barcode": "8012345678903",
+      "role": "loose"
+    },
+    {
+      "id": "hlf-de-pack",
+      "title": "Pack Code",
+      "country": "Germany",
+      "topic": "Commerce",
+      "catalogNumber": "DE 400",
+      "year": 1998,
+      "barcode": "4006381333931",
+      "role": "loose"
+    },
+    {
+      "id": "hlf-us-zgrill",
+      "title": "Z Grill",
+      "country": "United States",
+      "topic": "Franklin",
+      "catalogNumber": "US 85",
+      "year": 1868,
+      "barcode": "012345678901",
+      "role": "loose"
+    },
+    {
+      "id": "hlf-in-ashoka",
+      "title": "Ashoka Capital",
+      "country": "India",
+      "topic": "Emblem",
+      "catalogNumber": "IN 201",
+      "year": 1949,
+      "barcode": "8901234567890",
+      "role": "loose"
+    },
+    {
+      "id": "hlf-br-coffee",
+      "title": "Coffee Branch",
+      "country": "Brazil",
+      "topic": "Agriculture",
+      "catalogNumber": "BR 412",
+      "year": 1938,
+      "barcode": "7891234567895",
+      "role": "loose"
+    },
+    {
+      "id": "hlf-au-kangaroo",
+      "title": "Kangaroo",
+      "country": "Australia",
+      "topic": "Fauna",
+      "catalogNumber": "AU 1",
+      "year": 1913,
+      "barcode": "9301234567897",
+      "role": "loose"
+    },
+    {
+      "id": "hlf-cn-gate",
+      "title": "Heavenly Gate",
+      "country": "China",
+      "topic": "Architecture",
+      "catalogNumber": "CN 88",
+      "year": 1964,
+      "barcode": "6901234567892",
+      "role": "loose"
+    },
+    {
+      "id": "hlf-se-aurora",
+      "title": "Aurora",
+      "country": "Sweden",
+      "topic": "Sky",
+      "catalogNumber": "SE 310",
+      "year": 1986,
+      "barcode": "7351234567896",
+      "role": "loose"
+    }
+  ]
+}

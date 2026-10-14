@@ -1,0 +1,12 @@
+Version 1.0. First release of Hingeleaf, a personal stamp album for people who file stamp wants and owned copies on one leaf.
+
+• Onboarding under HINGELEAF: Seat the next stamp, Cancel the hinge, Grade only what you own. Skip or Start filing opens THE LEAF.
+• THE LEAF with pages of 12 perforations, Previous leaf, Next leaf, Add a leaf and In the tray.
+• DISCOVER search by country, topic or catalogue number. SCAN a retail pack barcode, QR code or typed Pack code or link. Saved album shelf when the catalogue has no match or does not answer.
+• Hinge a loose stamp as a want. Wants lists hinged stamps until they are cancelled.
+• Cancel a hinge when the paper is in hand (In hand.). Cancel without a hinge counts as skew on Taste; the stamp stays in the tray. Clear from tray.
+• Grade 1 to 5 only after cancel. Local note on a graded cancelled copy.
+• Taste from Profile: country grade totals, average grade, eras, notes, skew and drift. Crate of owned cancelled copies. Seen cancel ledger by day.
+• Peel last mark. Export album folio then Share album folio. Haptics. Run onboarding again. Erase everything. Contact Hingeleaf. Catalogue credit, Colnect.
+
+The leaf starts blank. Unfinished work resumes on the next launch.

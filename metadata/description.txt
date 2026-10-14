@@ -1,0 +1,17 @@
+Hingeleaf is a personal stamp album for people who file stamp wants and owned copies on one leaf. Search or scan a catalog issue, seat it on a perforation as a want, cancel that hinge when the paper stamp is in hand, then grade the owned copy from 1 to 5. Taste totals those cancelled grades by country.
+
+• THE LEAF shows pages of 12 perforations, with Previous leaf, Next leaf, and Add a leaf.
+• An empty spot shows Open. Tap it to open DISCOVER.
+• DISCOVER uses the field Country, topic, or number. Search stays dim until the field has text.
+• Scan reads a retail pack barcode or QR code, or you type Pack code or link. Look up stays dim until that field has text.
+• If the catalog has no match or does not answer, Show the shelf fills Discover with the saved album shelf.
+• A successful Search drops matching issues into In the tray as loose stamps.
+• Hinge seats a selected tray stamp on an empty perforation as a want. Wants lists hinged stamps until you cancel.
+• Cancel marks a hinged want in hand. In hand. appears briefly. Cancel without a hinge records a skew and leaves the stamp loose. Clear from tray removes a loose stamp.
+• Grade capsules 1, 2, 3, 4, and 5, and the field Local note, appear only after cancel.
+• Profile opens TASTE, which counts cancelled grades only: Grade total by country, Average grade, Skew, Drift, Eras, and Notes.
+• CRATE lists owned cancelled copies. SEEN lists cancel days, newest day last.
+• Peel last mark asks Peel the last mark? and removes the latest hinge or cancel.
+• SETTINGS includes Haptics, Run onboarding again, Export album folio then Share album folio, Erase everything, Contact Hingeleaf, and Catalog credit, Colnect.
+
+Hinges, cancels, grades, and notes stay on this device. English UI, portrait, iPhone and iPad, iOS 17.0 or later.

@@ -1,0 +1,11 @@
+Version 1.0 is the first release of Hingeleaf.
+
+• File stamp wants and owned copies on THE LEAF, in pages of 12 perforations.
+• Search DISCOVER by country, topic, or catalog number, or Scan a retail pack barcode, QR code, or typed Pack code or link.
+• Use the saved album shelf when the catalog has no match or does not answer.
+• Keep loose stamps In the tray, Hinge one onto an empty perforation, and review it in Wants.
+• Cancel a hinge when the paper is in hand, or Cancel without a hinge to record a skew.
+• Grade from 1 to 5 and add a Local note only after cancel.
+• Read Taste from Profile, owned copies in Crate, and cancel days in Seen.
+• Peel last mark, Export album folio, Share album folio, Haptics, Run onboarding again, and Erase everything.
+• Contact Hingeleaf and Catalog credit, Colnect open in the browser.
